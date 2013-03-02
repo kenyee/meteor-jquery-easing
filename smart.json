@@ -1,0 +1,8 @@
+{
+  "name": "jquery-easing",
+  "description": "GSGD's jQuery easing plugin repackaged for Meteor",
+  "homepage": "https://github.com/kenyee/meteor-jquery-easing",
+  "author": "Ken Yee",
+  "version": "1.3.0",
+  "git": "https://github.com/kenyee/meteor-jquery-easing.git"
+}
